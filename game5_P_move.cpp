@@ -2,8 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
-
-main(){
+int main(){
 	int n=5;
 	int n2=20;
 	int i,j,k;
@@ -311,4 +310,5 @@ main(){
 	return 0;
 	
 }
+
 
